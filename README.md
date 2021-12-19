@@ -21,6 +21,7 @@ Technologies I've been learning and using so far :
   [![JAVA](http://img.shields.io/badge/-JAVA-eee?style=flat-square&logo=java&logoColor=F7BD2F)](#)
   [![DART](http://img.shields.io/badge/-DART-eee?style=flat-square&logo=dart&logoColor=F7BD2F)](#)
   [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)](#)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
+  [![C#](http://img.shields.io/badge/-C#-eee?style=flat-square&logo=c#&logoColor=F7BD2F)](#)
   [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](#)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
   

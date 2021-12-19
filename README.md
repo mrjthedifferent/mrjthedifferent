@@ -17,25 +17,25 @@ I'm a simple person who love to code & I'd like to learn something new everyday.
 - ⚡ Fun fact: ...-->
 
 Technologies I've been learning and using so far :
-- Programming languages : <br />
+- Programming languages :
   [![JAVA](http://img.shields.io/badge/-JAVA-eee?style=flat-square&logo=java&logoColor=F7BD2F)](#)
   [![DART](http://img.shields.io/badge/-DART-eee?style=flat-square&logo=dart&logoColor=F7BD2F)](#)
   [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)](#)
   [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](#)
   [![CSharp](http://img.shields.io/badge/-C#-eee?style=flat-square)](#)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
-- Frontend : <br />
+- Frontend : 
   [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square)](#)
   [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square)](#)
   [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square)](#)  
-- Backend : <br />
+- Backend : 
   [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square)](#)
   [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square)](#)
   [![SQLite](http://img.shields.io/badge/-SQLite-eee?style=flat-square)](#)
-- Frameworks : <br />
+- Frameworks : 
   [![Flutter](http://img.shields.io/badge/-Flutter-eee?style=flat-square)](#)
   [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat-square)](#)
-- IDE & Tools : <br />
+- IDE & Tools :
   [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square)](#)
   [![AndroidStudio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square)](#)
   [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square)](#)

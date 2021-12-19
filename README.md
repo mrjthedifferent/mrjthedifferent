@@ -29,19 +29,19 @@ Technologies I've been learning and using so far :
   [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=F7BD2F)](#)
   [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=F7BD2F)](#)  
 - Backend : <br />
-  [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square)](#)
-  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square)](#)
-  [![SQLite](http://img.shields.io/badge/-SQLite-eee?style=flat-square)](#)
+  [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square&logo=firebase&logoColor=F7BD2F)](#)
+  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=F7BD2F)](#)
+  [![SQLite](http://img.shields.io/badge/-SQLite-eee?style=flat-square&logo=sqlite&logoColor=F7BD2F)](#)
 - Frameworks : <br />
-  [![Flutter](http://img.shields.io/badge/-Flutter-eee?style=flat-square)](#)
-  [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat-square)](#)
+  [![Flutter](http://img.shields.io/badge/-Flutter-eee?style=flat-square&logo=flutter&logoColor=F7BD2F)](#)
+  [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat-square&logo=unity&logoColor=F7BD2F)](#)
 - IDE & Tools :<br />
-  [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square)](#)
-  [![AndroidStudio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square)](#)
-  [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square)](#)
-  [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square)](#)
-  [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square)](#)
-  [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square)](#)
+  [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F7BD2F)](#)
+  [![AndroidStudio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square&logo=androidStudio&logoColor=F7BD2F)](#)
+  [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=vscode&logoColor=F7BD2F)](#)
+  [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square&logo=phpstorm&logoColor=F7BD2F)](#)
+  [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square&logo=adobe&logoColor=F7BD2F)](#)
+  [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square&logo=figma&logoColor=F7BD2F)](#)
   
   More about me 👉 [mrj.info.bd](https://mrj.info.bd).
   

@@ -25,9 +25,9 @@ Technologies I've been learning and using so far :
   [![CSharp](http://img.shields.io/badge/-C#-eee?style=flat-square)](#)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
 - Frontend : <br />
-  [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square)](#)
-  [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square)](#)
-  [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square)](#)  
+  [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html&logoColor=F7BD2F)](#)
+  [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css&logoColor=F7BD2F)](#)
+  [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=F7BD2F)](#)  
 - Backend : <br />
   [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square)](#)
   [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square)](#)
@@ -35,7 +35,8 @@ Technologies I've been learning and using so far :
 - Frameworks : <br />
   [![Flutter](http://img.shields.io/badge/-Flutter-eee?style=flat-square)](#)
   [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat-square)](#)
-- IDE & Tools :<br />[![Git](http://img.shields.io/badge/-Git-eee?style=flat-square)](#)
+- IDE & Tools :<br />
+  [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square)](#)
   [![AndroidStudio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square)](#)
   [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square)](#)
   [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square)](#)

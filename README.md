@@ -1,4 +1,7 @@
-### Hi there 👋
+### As-Salamu Alaykum, I'm Md. Mahfuzur Rahman - Software Developer
+
+[![Linkedin]
+(https://img.shields.io/badge/-mrj.thedifferent-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrj.thedifferent)](https://www.linkedin.com/in/mrj.thedifferent/)
 
 <!--
 **mrjthedifferent/mrjthedifferent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

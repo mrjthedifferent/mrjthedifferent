@@ -25,8 +25,8 @@ Technologies I've been learning and using so far :
   [![CSharp](http://img.shields.io/badge/-C#-eee?style=flat-square)](#)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
 - Frontend : <br />
-  [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html&logoColor=F7BD2F)](#)
-  [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css&logoColor=F7BD2F)](#)
+  [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=F7BD2F)](#)
+  [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=F7BD2F)](#)
   [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=F7BD2F)](#)  
 - Backend : <br />
   [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square)](#)

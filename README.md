@@ -22,7 +22,7 @@ Technologies I've been learning and using so far :
   [![DART](http://img.shields.io/badge/-DART-eee?style=flat-square&logo=dart&logoColor=F7BD2F)](#)
   [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)](#)
   [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](#)
-  [![CSharp](http://img.shields.io/badge/-C#-eee?style=flat-square)](#)
+  [![CSharp](http://img.shields.io/badge/-CSharp-eee?style=flat-square&logo=CSharp&logoColor=F7BD2F)](#)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
 - Frontend : <br />
   [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=F7BD2F)](#)

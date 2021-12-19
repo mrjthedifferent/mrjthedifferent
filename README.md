@@ -18,29 +18,29 @@ I'm a simple person who love to code & I'd like to learn something new everyday.
 
 Technologies I've been learning and using so far :
 - Programming languages :<br />
-  [![JAVA](http://img.shields.io/badge/-JAVA-eee?style=flat-square&logo=java&logoColor=F7BD2F)](#)
-  [![DART](http://img.shields.io/badge/-DART-eee?style=flat-square&logo=dart&logoColor=F7BD2F)](#)
-  [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)](#)
-  [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](#)
-  [![CSharp](http://img.shields.io/badge/-CSharp-eee?style=flat-square&logo=CSharp&logoColor=F7BD2F)](#)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
+  [![JAVA](http://img.shields.io/badge/-JAVA-eee?style=flat-square&logo=java)](#)
+  [![DART](http://img.shields.io/badge/-DART-eee?style=flat-square&logo=dart)](#)
+  [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)](#)
+  [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php)](#)
+  [![CSharp](http://img.shields.io/badge/-CSharp-eee?style=flat-square&logo=CSharp)](#)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript)](#)
 - Frontend : <br />
-  [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=F7BD2F)](#)
-  [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=F7BD2F)](#)
-  [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=F7BD2F)](#)  
+  [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5)](#)
+  [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3)](#)
+  [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap)](#)  
 - Backend : <br />
-  [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square&logo=firebase&logoColor=F7BD2F)](#)
-  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=F7BD2F)](#)
-  [![SQLite](http://img.shields.io/badge/-SQLite-eee?style=flat-square&logo=sqlite&logoColor=F7BD2F)](#)
+  [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square&logo=firebase)](#)
+  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql)](#)
+  [![SQLite](http://img.shields.io/badge/-SQLite-eee?style=flat-square&logo=sqlite)](#)
 - Frameworks : <br />
-  [![Flutter](http://img.shields.io/badge/-Flutter-eee?style=flat-square&logo=flutter&logoColor=F7BD2F)](#)
-  [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat-square&logo=unity&logoColor=F7BD2F)](#)
+  [![Flutter](http://img.shields.io/badge/-Flutter-eee?style=flat-square&logo=flutter)](#)
+  [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat-square&logo=unity)](#)
 - IDE & Tools :<br />
-  [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F7BD2F)](#)
-  [![AndroidStudio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square&logo=androidStudio&logoColor=F7BD2F)](#)
-  [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visualStudio&logoColor=F7BD2F)](#)
-  [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square&logo=phpstorm&logoColor=F7BD2F)](#)
-  [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square&logo=adobe&logoColor=F7BD2F)](#)
+  [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git)](#)
+  [![AndroidStudio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square&logo=androidStudio)](#)
+  [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visualStudio)](#)
+  [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square&logo=phpstorm)](#)
+  [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square&logo=adobe)](#)
   [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square&logo=figma)](#)
   
   More about me 👉 [mrj.info.bd](https://mrj.info.bd).

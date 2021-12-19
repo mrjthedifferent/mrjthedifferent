@@ -22,14 +22,14 @@ Technologies I've been learning and using so far :
   [![DART](http://img.shields.io/badge/-DART-eee?style=flat-square&logo=dart&logoColor=F05032)](#)
   [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)](#)
   [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php)](#)
-  [![CSharp](http://img.shields.io/badge/-CSharp-eee?style=flat-square&logo=CSharp)](#)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript)](#)
+  [![CSharp](http://img.shields.io/badge/-CSharp-eee?style=flat-square&logo=CSharp&logoColor=F05032)](#)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=F05032)](#)
 - Frontend : <br />
   [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5)](#)
   [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=F05032)](#)
   [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap)](#)  
 - Backend : <br />
-  [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square&logo=firebase)](#)
+  [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square&logo=firebase&logoColor=F05032)](#)
   [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql)](#)
   [![SQLite](http://img.shields.io/badge/-SQLite-eee?style=flat-square&logo=sqlite&logoColor=F05032)](#)
 - Frameworks : <br />
@@ -40,7 +40,7 @@ Technologies I've been learning and using so far :
   [![AndroidStudio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square&logo=androidStudio)](#)
   [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visualStudio&logoColor=F05032)](#)
   [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square&logo=phpstorm&logoColor=F05032)](#)
-  [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square&logo=adobe)](#)
+  [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square&logo=adobe&logoColor=F05032)](#)
   [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square&logo=figma)](#)
   
   More about me 👉 [mrj.info.bd](https://mrj.info.bd).

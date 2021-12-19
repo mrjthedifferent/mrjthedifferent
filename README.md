@@ -21,7 +21,32 @@ Technologies I've been learning and using so far :
   [![JAVA](http://img.shields.io/badge/-JAVA-eee?style=flat-square&logo=java&logoColor=F7BD2F)](#)
   [![DART](http://img.shields.io/badge/-DART-eee?style=flat-square&logo=dart&logoColor=F7BD2F)](#)
   [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)](#)
-  [![C#](http://img.shields.io/badge/-C#-eee?style=flat-square&logo=c#&logoColor=F7BD2F)](#)
   [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](#)
+  [![CSharp](http://img.shields.io/badge/-C#-eee?style=flat-square)](#)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
   
+- Frontend : <br />
+  [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square)](#)
+  [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square)](#)
+  [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square)](#)
+  
+- Backend : <br />
+  [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square)](#)
+  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square)](#)
+  [![SQLite](http://img.shields.io/badge/-SQLite-eee?style=flat-square)](#)
+  
+- Frameworks : <br />
+  [![Flutter](http://img.shields.io/badge/-Flutter-eee?style=flat-square)](#)
+  [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat-square)](#)
+  
+- IDE & Tools : <br />
+  [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square)](#)
+  [![AndroidStudio](http://img.shields.io/badge/-Android Studio-eee?style=flat-square)](#)
+  [![VSCode](http://img.shields.io/badge/-VS Code-eee?style=flat-square)](#)
+  [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square)](#)
+  [![AdobeXD](http://img.shields.io/badge/-Adobe XD-eee?style=flat-square)](#)
+  [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square)](#)
+  
+  More about me 👉 [mrj.info.bd](https://mrj.info.bd).
+  
+  <!--[![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626)](#)-->

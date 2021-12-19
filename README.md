@@ -1,6 +1,6 @@
 ### As-Salamu Alaykum, I'm Md. Mahfuzur Rahman - Software Developer
 
-[![Linkedin](https://img.shields.io/badge/-mrj.thedifferent-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrj.thedifferent)](https://www.linkedin.com/in/mrj.thedifferent/)
+[![Linkedin](https://img.shields.io/badge/-mrjthedifferent-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrjthedifferent)](https://www.linkedin.com/in/mrjthedifferent/)
 [![Twitter](https://img.shields.io/twitter/follow/mrjthedifferent?style=social)](https://www.twitter.com/mrjthedifferent/)
 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=mrj.thedifferent)](#)
 

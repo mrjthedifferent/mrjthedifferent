@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-mrj.thedifferent-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrj.thedifferent)](https://www.linkedin.com/in/mrj.thedifferent/)
 [![Twitter](https://img.shields.io/twitter/follow/mrjthedifferent?style=social)](https://www.twitter.com/mrjthedifferent/)
+[![Visitor](https://visitor-badge.glitch.me/badge?page_id=mrj.thedifferent)](#)
 
 <!--
 **mrjthedifferent/mrjthedifferent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

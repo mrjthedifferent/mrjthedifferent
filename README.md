@@ -38,7 +38,7 @@ Technologies I've been learning and using so far :
 - IDE & Tools :<br />
   [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F7BD2F)](#)
   [![AndroidStudio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square&logo=androidStudio&logoColor=F7BD2F)](#)
-  [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=VSCode&logoColor=F7BD2F)](#)
+  [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visualStudio&logoColor=F7BD2F)](#)
   [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square&logo=phpstorm&logoColor=F7BD2F)](#)
   [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square&logo=adobe&logoColor=F7BD2F)](#)
   [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square&logo=figma&logoColor=F7BD2F)](#)

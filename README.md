@@ -41,10 +41,10 @@ Technologies I've been learning and using so far :
   
 - IDE & Tools : <br />
   [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square)](#)
-  [![AndroidStudio](http://img.shields.io/badge/-Android Studio-eee?style=flat-square)](#)
-  [![VSCode](http://img.shields.io/badge/-VS Code-eee?style=flat-square)](#)
+  [![Android Studio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square)](#)
+  [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square)](#)
   [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square)](#)
-  [![AdobeXD](http://img.shields.io/badge/-Adobe XD-eee?style=flat-square)](#)
+  [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square)](#)
   [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square)](#)
   
   More about me 👉 [mrj.info.bd](https://mrj.info.bd).

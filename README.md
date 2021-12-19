@@ -41,7 +41,7 @@ Technologies I've been learning and using so far :
   [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visualStudio&logoColor=F7BD2F)](#)
   [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square&logo=phpstorm&logoColor=F7BD2F)](#)
   [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square&logo=adobe&logoColor=F7BD2F)](#)
-  [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square&logo=figma&logoColor=F7BD2F)](#)
+  [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square&logo=figma)](#)
   
   More about me 👉 [mrj.info.bd](https://mrj.info.bd).
   
